@@ -1,5 +1,7 @@
 ### Hello and welcome to my GitHub profile! 🎉 
-My name is Cagdas Tok, and I am a web developer specialized in React, JavaScript, C, and Java. Born in Turkey and currently living in Munich, Germany. 🌍
+My name is Cagdas Tok, and I am a web developer specialized in React, JavaScript, C, and Java. 
+
+Born in Turkey and currently living in Munich, Germany. 🌍
 
 With a keen eye for detail and a strong desire to create high-quality solutions, I have worked on a variety of projects throughout my career. From building interactive web applications to developing algorithms, I am always eager to take on new challenges and push the boundaries of what is possible. 💪
 
