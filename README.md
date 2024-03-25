@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/ctokx/ctokx/blob/output/github-contribution-grid-snake.svg) 
+![ctokx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctokx&show_icons=true&theme=radical)
